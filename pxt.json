@@ -1,5 +1,5 @@
 {
-    "name": "Comparación > < de Números",
+    "name": "comparar-sumar_ab",
     "description": "",
     "dependencies": {
         "core": "*",
